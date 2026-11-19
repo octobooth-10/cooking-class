@@ -21,6 +21,13 @@ npm run build
 npm run preview
 ```
 
+## Deploy to GitHub Pages
+
+The `main` branch is deployed to [GitHub Pages](https://octobooth-10.github.io/cooking-class/)
+by GitHub Actions. The workflow runs the tests and production build before publishing
+the `dist` directory. Pushes to `main` deploy automatically; deployments can also
+be started from the Actions tab.
+
 ## Play
 
 1. Read the instructions, optionally enable sound, and click **Let's cook**.
