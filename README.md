@@ -4,6 +4,8 @@ A mouse-first, 60-second cooking game for a shared Microsoft Ignite booth comput
 Original GitHub-inspired styling with Microsoft and VS Code references. An unofficial
 event tribute, not affiliated with or endorsed by Microsoft or GitHub.
 
+The session: https://gist.github.com/octobooth-10/2e5b5ede47dc897970f4a4eac0a7a687
+
 ## Run locally
 
 Requires Node.js 22.12+, Node.js 24, or Node.js 26+.
